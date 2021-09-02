@@ -59,6 +59,11 @@
 - Qiita [https://qiita.com/yorifuji](https://qiita.com/yorifuji)
 - Note [https://note.com/yorifuji](https://note.com/yorifuji)
 
+# 登壇資料
+
+- iOSのCallKitフレームークとSkyWayについて (2019/08/21)
+  - https://speakerdeck.com/yorifuji/callkit-skyway
+
 # 個人開発
 
 - [Sweep VoIP 通話アプリ](https://apps.apple.com/jp/app/sweep-voip-%E9%80%9A%E8%A9%B1%E3%82%A2%E3%83%97%E3%83%AA/id1464355224)
