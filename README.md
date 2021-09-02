@@ -43,8 +43,8 @@
 
 # 保有資格
 
-- 応用情報技術者（2017/12）
-- AWSクラウドプラクティショナー（2021/8）
+- 応用情報技術者 （2017/12）
+- AWS クラウドプラクティショナー （2021/8）
 
 # SNS、ブログなど
 
@@ -57,6 +57,10 @@
 # 個人開発
 
 - [Sweep VoIP 通話アプリ](https://apps.apple.com/jp/app/sweep-voip-%E9%80%9A%E8%A9%B1%E3%82%A2%E3%83%97%E3%83%AA/id1464355224)
-  - WebRTC/PushKit/CallKitを使用した通話アプリ
+  - ユーザー登録不要で利用できる音声通話VoIPアプリ
+  - 技術スタック
+    - WebRTC(SkyWay) / PushKit / CallKit
 - [よみとり OCR](https://apps.apple.com/jp/app/%E3%82%88%E3%81%BF%E3%81%A8%E3%82%8A/id1541364743)
-  - Firebase Machine Learningを使用したOCRアプリ
+  - 画像から文字認識をするOCRアプリ
+  - 技術スタック
+    - Firebase Machine Learning
