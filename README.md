@@ -79,30 +79,57 @@
 
 # 個人開発
 
-- ビデオ通話アプリ
-  - WebRTCを使ったブラウザベースのビデオ通話アプリ
-  - 技術スタック
-    - Vue.js
-    - Bootstrap
-    - WebRTC
-  - デモサイト
-    - https://github.com/yorifuji/meets
-- [Sweep VoIP 通話アプリ](https://apps.apple.com/jp/app/sweep-voip-%E9%80%9A%E8%A9%B1%E3%82%A2%E3%83%97%E3%83%AA/id1464355224)
-  - iOSでVoIPを使った音声通話アプリ
-  - 技術スタック
-    - UIKit
-    - PushKit
-    - CallKit
-    - WebRTC
-    - AWS
+## オンラインチャット ウェブアプリ
+
+- React/Firebaseを使ったWebチャット
+- 機能
+  - 認証
+  - チャンネル一覧画面
+  - チャンネルの登録・削除
+  - 絵文字機能
+  - オンラインミーティング
+- 技術スタック
+  - React
+  - Material UI
+  - Firebase / Authentication
+  - Emoji
+  - Jest
+
+
+## ビデオ通話 ウェブアプリ
+
+- WebRTCを使ったブラウザベースのビデオ通話アプリ
+- デモサイト https://github.com/yorifuji/meets
+- 技術スタック
+  - Vue.js
+  - Bootstrap
+  - WebRTC
+
+## VoIP通話 iOSアプリ
+
+-  [Sweep VoIP 通話アプリ](https://apps.apple.com/jp/app/sweep-voip-%E9%80%9A%E8%A9%B1%E3%82%A2%E3%83%97%E3%83%AA/id1464355224)
+- iOSでVoIPを使った音声通話アプリ
+- CallKit / PushKit を使うことによるネイティブ電話アプリと同じ体験
+- 技術スタック
+  - UIKit
+  - PushKit
+  - CallKit
+  - WebRTC
+  - AWS
+
+## OCR iOSアプリ
+
 - [よみとり OCR](https://apps.apple.com/jp/app/%E3%82%88%E3%81%BF%E3%81%A8%E3%82%8A/id1541364743)
-  - 画像から文字認識をするOCRアプリ
-  - 技術スタック
-    - SwiftUI
-    - Firebase Machine Learning
-- 音声SNSアプリ
-  - 多人数で雑談するソーシャルアプリ
-  - 技術スタック
-    - SwiftUI
-    - Firebase
-    - WebRTC
+- 画像から文字認識をするOCRアプリ
+- 技術スタック
+  - SwiftUI
+  - Firebase Machine Learning
+
+## 音声SNSアプリ
+
+- 多人数で雑談するソーシャルアプリ
+  - Clubhouse風
+- 技術スタック
+  - SwiftUI
+  - Firebase
+  - WebRTC
