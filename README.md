@@ -79,10 +79,9 @@
 
 # 個人開発
 
-## オンラインチャット ウェブアプリ
+## オンラインチャット
 
-- React / Firebaseを使ったWebチャット
-- [デモサイト](https://react-firebase-chat-demo-32d02.web.app/)
+- React / Firebaseを使ったWebチャット　[デモサイト](https://react-firebase-chat-demo.yorifuji.dev/)
 - 機能
   - 認証
   - チャンネル一覧画面
@@ -99,14 +98,14 @@
   - Jest
 
 
-## ビデオ通話 ウェブアプリ
+## ビデオ通話アプリ
 
-- WebRTCを使ったブラウザベースのビデオ通話アプリ
-- [デモサイト](https://github.com/yorifuji/meets)
+- WebRTCを使ったブラウザベースのビデオ通話アプリ　[デモサイト](https://github.com/yorifuji/meets)
 - 技術スタック
   - Vue.js
   - Bootstrap
   - WebRTC
+  - GitHub Actions
 
 ## VoIP通話 iOSアプリ
 
