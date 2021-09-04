@@ -51,6 +51,7 @@
 
 - 少人数チームでのアジャイル開発で小さく早くリリースをして仮説検証を行うプロセスに興味があります
 - モバイルアプリが好きですがバックエンドやフロントエンドにも興味があります
+  - iOS / SwiftUI / Combine
   - AWS / GCP などのクラウドサービス、Firebase などの mBaaS、Reactなど
 - 新しい技術の習得や学習成果の発信活動に対して興味があります
 
@@ -81,19 +82,20 @@
 ## オンラインチャット ウェブアプリ
 
 - React / Firebaseを使ったWebチャット
-- [デモサイト](https://react-firebase-chat-demo-32d02.web.app/profile)
+- [デモサイト](https://react-firebase-chat-demo-32d02.web.app/)
 - 機能
   - 認証
   - チャンネル一覧画面
   - チャンネルの登録・削除
-  - 絵文字機能
+  - リアクション
   - オンラインミーティング
 - 技術スタック
-  - React / SPA
-  - Typescript
-  - Material UI
+  - React
+  - SPA
   - Firebase
     - Authentication / Firestore / Hosting
+  - TypeScript
+  - Material UI
   - Jest
 
 
