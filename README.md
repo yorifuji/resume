@@ -99,7 +99,6 @@
   - GitHub Actions
     - Firebase Hostingへの自動デプロイ
 
-
 ## ビデオ通話アプリ
 
 - WebRTCを使ったブラウザベースのビデオ通話アプリ　[デモサイト](https://github.com/yorifuji/meets)
@@ -108,6 +107,7 @@
   - Bootstrap
   - WebRTC
   - GitHub Actions
+    - GitHub Pagesへのデプロイ
 
 ## VoIP通話 iOSアプリ
 
@@ -128,7 +128,7 @@
   - Firebase
     - Firebase Machine Learning
 
-## 音声SNSアプリ
+## 音声SNS iOSアプリ
 
 - 多人数で雑談するソーシャルアプリ
   - Clubhouse風
@@ -138,3 +138,4 @@
     - Authentication / Firestore / Storage / Functions
   - WebRTC
   - Jest
+    - firestore.rulesのテスト
