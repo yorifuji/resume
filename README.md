@@ -96,6 +96,8 @@
   - TypeScript
   - Material UI
   - Jest
+  - GitHub Actions
+    - Firebase Hostingへの自動デプロイ
 
 
 ## ビデオ通話アプリ
