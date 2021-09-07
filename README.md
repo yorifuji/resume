@@ -107,7 +107,7 @@
   - Bootstrap
   - WebRTC
   - GitHub Actions
-    - GitHub Pagesへのデプロイ
+    - GitHub Pagesの自動デプロイ
 
 ## VoIP通話 iOSアプリ
 
