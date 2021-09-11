@@ -76,7 +76,7 @@
 # 登壇資料
 
 - iOSのCallKitフレームークとSkyWayについて (2019/08/21)
-  - https://speakerdeck.com/yorifuji/callkit-skyway
+  - [スライド](https://speakerdeck.com/yorifuji/callkit-skyway)
 
 # 個人開発
 
