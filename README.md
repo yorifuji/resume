@@ -63,6 +63,7 @@
 # 最終学歴
 
 - 東京農工大学大学院 工学教育部 情報コミュニケーション工学専攻 博士前期課程 修了（2005/3）
+- 学会などのペーパーはこちらから検索 [情報処理学会 電子図書館](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_snippet&all=&creator=%E4%BE%9D%E8%97%A4%20%E5%85%85%E7%AF%84&count=20&order=16&pn=1&page_id=13&block_id=8)
 
 # SNS、ブログなど
 
@@ -97,6 +98,7 @@
   - Material UI
   - Jest
   - GitHub Actions
+    - Firestore Security Rulesの自動テスト
     - Firebase Hostingへの自動デプロイ
 
 ## ビデオ通話アプリ
