@@ -1,3 +1,6 @@
+
+[こちらでも閲覧可能です](https://resume.yorifuji.dev/)
+
 # resume
 
 依藤 充範（YORIFUJI MITSUNORI）
