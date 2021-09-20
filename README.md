@@ -16,16 +16,15 @@
 # スキル
 
 - 各種クライアントOSで利用するネイティブアプリケーションの開発
-    - Win / macOS / iOS / Android
+    - Win、macOS、iOS、Android
+- 各種プログラミング言語を利用したアプリケーション開発
+    - C/C++、Objective-C、Java
+- 各種フレームワーク・ライブラリを活用したアプリケーション開発
+    - Win32API、AppKit、UIKit
 - 複数のOSがネットワーク上に混在する状況でシームレスに機能するアプリケーションの設計・開発
 - 遠隔協調作業を想定したアプリケーションの設計・開発
   - 画面共有・ドキュメント操作・ホワイトボードなど
 - TCP/UDPを使った通信処理の実装
-    - IPv6対応
-- 各種プログラミング言語を利用したアプリケーション開発
-    - C / C++ / Objective-C / Java
-- 各種フレームワーク・ライブラリを活用したアプリケーション開発
-    - Win32API / AppKit / UIKit
 - OSSの映像コーデックのモバイルアプリケーションへの組み込み
 - AWSのマネージドサービスを利用したサービス開発
 - オンプレミス・イントラでの利用を想定したパッケージアプリケーションの開発
@@ -33,7 +32,7 @@
     - OS・ミドルウェアに関する知識・経験
 - 後方互換性を考慮したアプリケーションのアーキテクチャ設計・開発
 - 使用可能な開発ツール
-    - Git / SVN / Docker / シェルスクリプトなど
+    - Git、SVN、Docker、シェルスクリプトなど
 
 # ソフトスキル
 
@@ -53,9 +52,9 @@
 
 - アジャイルで仮説検証を回してプロダクトを改善するプロセスに興味があります
 - 技術スタックはモバイルアプリが好きですがフロントエンドやバックエンドにも興味があります
-  - iOS / SwiftUI
-  - React / Vue
-  - AWS / GCP、Firebase などの mBaaS
+  - iOS、SwiftUI
+  - React、Vue
+  - AWS、GCP、Firebase などの mBaaS
   - WebRTC
 - 新しい技術やプラクティスを積極的に取り入れている組織やチームでの開発に興味があります
 - コードレビューやペアプロを取り入れている組織やチームでの開発に興味があります
@@ -100,7 +99,7 @@
   - React
   - SPA
   - Firebase
-    - Authentication / Firestore / Hosting
+    - Authentication、Firestore、Hosting
   - TypeScript
   - Material UI
   - Jest
@@ -124,7 +123,7 @@
 - iOSでVoIPを使った音声通話アプリ
 - CallKit / PushKit を使うことによるネイティブ電話アプリと同じ体験
 - 技術スタック
-  - UIKit / PushKit / CallKit
+  - UIKit、PushKit、CallKit
   - WebRTC
   - AWS
 
@@ -144,7 +143,7 @@
 - 技術スタック
   - SwiftUI
   - Firebase
-    - Authentication / Firestore / Storage / Functions
+    - Authentication、Firestore、Storage、Functions
   - WebRTC
   - Jest
     - firestore.rulesのテスト
