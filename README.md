@@ -86,37 +86,6 @@
 
 # 個人開発
 
-## オンラインチャット
-
-- React / Firebaseを使ったWebチャット　[デモサイト](https://react-firebase-chat-demo.yorifuji.dev/)
-- 機能
-  - 認証
-  - チャンネル一覧画面
-  - チャンネルの登録・削除
-  - リアクション
-  - オンラインミーティング
-- 技術スタック
-  - React
-  - SPA
-  - Firebase
-    - Authentication、Firestore、Hosting
-  - TypeScript
-  - Material UI
-  - Jest
-  - GitHub Actions
-    - Firestore Security Rulesの自動テスト
-    - Firebase Hostingへの自動デプロイ
-
-## ビデオ通話アプリ
-
-- WebRTCを使ったブラウザベースのビデオ通話アプリ　[デモサイト](https://github.com/yorifuji/meets)
-- 技術スタック
-  - Vue.js
-  - Bootstrap
-  - WebRTC
-  - GitHub Actions
-    - GitHub Pagesの自動デプロイ
-
 ## VoIP通話 iOSアプリ
 
 -  [Sweep VoIP 通話アプリ](https://apps.apple.com/jp/app/sweep-voip-%E9%80%9A%E8%A9%B1%E3%82%A2%E3%83%97%E3%83%AA/id1464355224)
@@ -147,3 +116,35 @@
   - WebRTC
   - Jest
     - firestore.rulesのテスト
+
+## ビデオ通話アプリ
+
+- WebRTCを使ったブラウザベースのビデオ通話アプリ　[デモサイト](https://github.com/yorifuji/meets)
+- 技術スタック
+  - Vue.js
+  - Bootstrap
+  - WebRTC
+  - GitHub Actions
+    - GitHub Pagesの自動デプロイ
+
+## オンラインチャット
+
+- React / Firebaseを使ったWebチャット
+- 機能
+  - 認証
+  - チャンネル一覧画面
+  - チャンネルの登録・削除
+  - リアクション
+  - オンラインミーティング
+- 技術スタック
+  - React
+  - SPA
+  - Firebase
+    - Authentication、Firestore、Hosting
+  - TypeScript
+  - Material UI
+  - Jest
+  - GitHub Actions
+    - Firestore Security Rulesの自動テスト
+    - Firebase Hostingへの自動デプロイ
+
