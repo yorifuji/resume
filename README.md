@@ -1,4 +1,3 @@
-
 [こちらでも閲覧可能です](https://resume.yorifuji.dev/)
 
 # resume
@@ -7,32 +6,34 @@
 
 # 業務経歴
 
-- 自社開発のWeb会議サービスの設計・開発、運用業務
-- 通信キャリアのR&D受託案件
-- 新規事業のPoC
-- AWSを使ったクラウドサービスの設計や開発
-- プロジェクト管理、エンジニアチームのリーダーなど
+- 金融系ベンチャー（2022/3 - 在籍中）
+  - モバイルアプリ開発
+- 通信系 SIer（2005/4 - 2022/3）
+  - 自社開発の Web 会議サービスの設計・開発、運用業務
+  - 通信キャリアの R&D 受託案件
+  - 新規事業の PoC
+  - AWS を使ったクラウドサービスの設計や開発
+  - プロジェクト管理、エンジニアチームのリーダーなど
 
 # スキル
 
-- 各種クライアントOSで利用するネイティブアプリケーションの開発
-    - Win、macOS、iOS、Android
-- 各種プログラミング言語を利用したアプリケーション開発
-    - C/C++、Objective-C、Java
-- 各種フレームワーク・ライブラリを活用したアプリケーション開発
-    - Win32API、AppKit、UIKit
-- 複数のOSがネットワーク上に混在する状況でシームレスに機能するアプリケーションの設計・開発
+- ネイティブアプリケーションの開発
+  - Windows、macOS、iOS、Android, Linux,...
+- プログラミング言語・フレームワーク・ライブラリを活用したアプリケーション開発
+  - C/C++、Objective-C、Java
+  - Win32API、AppKit、UIKit
+- TCP/UDP のソケットを使った通信処理の実装
+- OSS の映像コーデックのモバイルアプリケーションへの組み込み
+- 複数の OS がネットワーク上に混在する状況でシームレスに機能するアプリケーションの設計・開発
 - 遠隔協調作業を想定したアプリケーションの設計・開発
   - 画面共有・ドキュメント操作・ホワイトボードなど
-- TCP/UDPを使った通信処理の実装
-- OSSの映像コーデックのモバイルアプリケーションへの組み込み
-- AWSのマネージドサービスを利用したサービス開発
 - オンプレミス・イントラでの利用を想定したパッケージアプリケーションの開発
-    - RHEL(Red Hat Enterprise Linux)、CentOS等
-    - OS・ミドルウェアに関する知識・経験
+  - RHEL(Red Hat Enterprise Linux)、CentOS 等
+  - OS・ミドルウェアに関する知識・経験
 - 後方互換性を考慮したアプリケーションのアーキテクチャ設計・開発
+- AWS を利用したサービス開発
 - 使用可能な開発ツール
-    - Git、SVN、Docker、シェルスクリプトなど
+  - Git、SVN、Docker、シェルスクリプトなど
 
 # ソフトスキル
 
@@ -81,55 +82,55 @@
 
 # 登壇資料
 
-- iOSのCallKitフレームークとSkyWayについて (2019/08/21)
+- iOS の CallKit フレームークと SkyWay について (2019/08/21)
   - [スライド](https://speakerdeck.com/yorifuji/callkit-skyway)
 
 # 個人開発
 
-## VoIP通話 iOSアプリ
+## VoIP 通話 iOS アプリ
 
--  [Sweep VoIP 通話アプリ](https://apps.apple.com/jp/app/sweep-voip-%E9%80%9A%E8%A9%B1%E3%82%A2%E3%83%97%E3%83%AA/id1464355224)
-- iOSでVoIPを使った音声通話アプリ
+- [Sweep VoIP 通話アプリ](https://apps.apple.com/jp/app/sweep-voip-%E9%80%9A%E8%A9%B1%E3%82%A2%E3%83%97%E3%83%AA/id1464355224)
+- iOS で VoIP を使った音声通話アプリ
 - CallKit / PushKit を使うことによるネイティブ電話アプリと同じ体験
 - 技術スタック
   - UIKit、PushKit、CallKit
   - WebRTC
   - AWS
 
-## OCR iOSアプリ
+## OCR iOS アプリ
 
 - [よみとり OCR](https://apps.apple.com/jp/app/%E3%82%88%E3%81%BF%E3%81%A8%E3%82%8A/id1541364743)
-- 画像から文字認識をするOCRアプリ
+- 画像から文字認識をする OCR アプリ
 - 技術スタック
   - SwiftUI
   - Firebase
     - Firebase Machine Learning
 
-## 音声SNS iOSアプリ
+## 音声 SNS iOS アプリ
 
 - 多人数で雑談するソーシャルアプリ
-  - Clubhouse風
+  - Clubhouse 風
 - 技術スタック
   - SwiftUI
   - Firebase
     - Authentication、Firestore、Storage、Functions
   - WebRTC
   - Jest
-    - firestore.rulesのテスト
+    - firestore.rules のテスト
 
 ## ビデオ通話アプリ
 
-- WebRTCを使ったブラウザベースのビデオ通話アプリ　[デモサイト](https://github.com/yorifuji/meets)
+- WebRTC を使ったブラウザベースのビデオ通話アプリ　[デモサイト](https://github.com/yorifuji/meets)
 - 技術スタック
   - Vue.js
   - Bootstrap
   - WebRTC
   - GitHub Actions
-    - GitHub Pagesの自動デプロイ
+    - GitHub Pages の自動デプロイ
 
 ## オンラインチャット
 
-- React / Firebaseを使ったWebチャット
+- React / Firebase を使った Web チャット
 - 機能
   - 認証
   - チャンネル一覧画面
@@ -145,6 +146,5 @@
   - Material UI
   - Jest
   - GitHub Actions
-    - Firestore Security Rulesの自動テスト
-    - Firebase Hostingへの自動デプロイ
-
+    - Firestore Security Rules の自動テスト
+    - Firebase Hosting への自動デプロイ
