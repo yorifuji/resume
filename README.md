@@ -77,16 +77,6 @@
 
 # 個人開発
 
-## VoIP 通話 iOS アプリ
-
-- [Sweep VoIP 通話アプリ](https://apps.apple.com/jp/app/sweep-voip-%E9%80%9A%E8%A9%B1%E3%82%A2%E3%83%97%E3%83%AA/id1464355224)
-- iOS で VoIP を使った音声通話アプリ
-- CallKit / PushKit を使うことによるネイティブ電話アプリと同じ体験
-- 技術スタック
-  - UIKit、PushKit、CallKit
-  - WebRTC
-  - AWS
-
 ## OCR iOS アプリ
 
 - [よみとり OCR](https://apps.apple.com/jp/app/%E3%82%88%E3%81%BF%E3%81%A8%E3%82%8A/id1541364743)
