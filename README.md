@@ -86,18 +86,6 @@
   - Firebase
     - Firebase Machine Learning
 
-## 音声 SNS iOS アプリ
-
-- 多人数で雑談するソーシャルアプリ
-  - Clubhouse 風
-- 技術スタック
-  - SwiftUI
-  - Firebase
-    - Authentication、Firestore、Storage、Functions
-  - WebRTC
-  - Jest
-    - firestore.rules のテスト
-
 ## ビデオ通話アプリ
 
 - WebRTC を使ったブラウザベースのビデオ通話アプリ　[デモサイト](https://github.com/yorifuji/meets)
@@ -107,24 +95,3 @@
   - WebRTC
   - GitHub Actions
     - GitHub Pages の自動デプロイ
-
-## オンラインチャット
-
-- React / Firebase を使った Web チャット
-- 機能
-  - 認証
-  - チャンネル一覧画面
-  - チャンネルの登録・削除
-  - リアクション
-  - オンラインミーティング
-- 技術スタック
-  - React
-  - SPA
-  - Firebase
-    - Authentication、Firestore、Hosting
-  - TypeScript
-  - Material UI
-  - Jest
-  - GitHub Actions
-    - Firestore Security Rules の自動テスト
-    - Firebase Hosting への自動デプロイ
