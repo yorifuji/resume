@@ -6,28 +6,24 @@
 
 ## 金融系事業会社 （2022/4 - 在籍中）
 
-- iOS アプリの開発
+- モバイルアプリ開発
   - Swift, UIKit
   - Flutter
 
 ## 通信系 SIer （2005/4 - 2022/3）
 
-- Web 会議サービスの設計・開発、運用業務
-- 通信キャリアの R&D 受託案件
-- 新規事業立ち上げにおけるフィージビリティスタディや PoC 開発
+- Web 会議サービスの設計・開発
+- 大手通信キャリアの R&D 受託開発
+- 新規事業のフィージビリティスタディや PoC
 - プロジェクト管理、エンジニアチームのリーダーなど
 
 # スキル
 
 - ネイティブアプリケーションの開発
-  - Windows、macOS、iOS、Android, Linux,...
-- プログラミング言語・フレームワーク・ライブラリを活用したアプリケーション開発
-  - C/C++、Objective-C、Java
-  - Win32API、AppKit、UIKit
+  - Windows(C/C++/Win32/MFC)、macOS(AppKit)、iOS(UIKit/Objective-C)、Android(Java), Linux,...
 - TCP/UDP のソケットを使った通信処理の実装
 - OSS の映像コーデックのモバイルアプリケーションへの組み込み
-- 使用可能な開発ツール
-  - Git、SVN、Docker、シェルスクリプトなど
+- Git、Docker、シェルスクリプトなどの開発ツールの利用
 
 # ソフトスキル
 
