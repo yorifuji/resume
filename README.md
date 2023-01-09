@@ -19,8 +19,15 @@
 
 # 経験・スキル
 
+- Flutter
+  - freezed, riverpod, go_router
+  - MVVM + Repository Architecture
+- iOS
+  - UIKit, SwiftUI
+- CI/CD
+  - Bitrise, GitHub Actions
 - ネイティブアプリケーションの開発
-  - Windows(C/C++/Win32/MFC)、macOS(AppKit)、iOS(UIKit/Objective-C)、Android(Java), Linux,...
+  - Windows(C/C++/Win32/MFC)、macOS(AppKit)、 Android(Java), Linux,...
 - TCP/UDP のソケットを使った通信処理の実装
 - シェルスクリプト、Git、Docker などの開発ツールの利用
 
