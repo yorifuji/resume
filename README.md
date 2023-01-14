@@ -20,10 +20,12 @@
 # 経験・スキル
 
 - Flutter
-  - freezed, riverpod, go_router
+  - freezed, riverpod, flutter_hooks, go_router
   - MVVM + Repository Architecture
 - iOS
   - UIKit, SwiftUI
+- Backend
+  - OpenAPI(Swagger)
 - CI/CD
   - Bitrise, GitHub Actions
 - ネイティブアプリケーションの開発
