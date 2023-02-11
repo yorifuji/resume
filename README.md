@@ -45,6 +45,14 @@
 - カスタマーサポートの技術支援、トラブルシューティング
 - ウォーターフォール・アジャイル開発、オフショア開発の管理業務
 
+# 最近執筆した記事
+
+- [GitHub Actions で Automatically manage signing を使って Flutter の ipa ビルドする](https://zenn.dev/yorifuji/articles/build-automatically-manage-singin-on-ci)
+- [Bitrise で Flutter iOS アプリの Build & TestFlight の勘所 （2022.12）](https://zenn.dev/yorifuji/articles/flutter-bitrise-basis)
+- [Flutter開発で使っているGitHub Actionsのワークフロー](https://zenn.dev/yorifuji/articles/flutter-github-actions-template)
+
+[more](https://zenn.dev/yorifuji)
+
 # 意欲・興味
 
 - アジャイルで仮説検証を回してプロダクトを改善するプロセスに興味があります
