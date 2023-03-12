@@ -4,18 +4,22 @@
 
 # 業務経歴
 
-## 金融系事業会社 （2022/4 - 在籍中）
+## 金融系事業会社 （2022.4 - 在籍中）
 
-- toC 向けの金融商品を取り扱うモバイルアプリ開発
+- toC 向けモバイルアプリ開発
   - Swift, UIKit
 - toB 向けモバイルアプリ開発
   - Flutter
 
-## 通信系事業会社 & SIer （2005/4 - 2022/3）
+## 通信系事業会社 & SIer （2005.4 - 2022.3）
 
 - Web 会議サービスの設計・開発
-- 新規事業のフィージビリティスタディや PoC
-- プロジェクト管理、エンジニアチームのリーダーなど
+  - 開発チームリーダー
+  - 各種OSのネイティブアプリ開発（Windows, macOS、 Android, iOS)
+- 新規事業のフィージビリティスタディや PoC などの上流工程
+- プロジェクト管理
+
+など
 
 # 経験・スキル
 
@@ -29,7 +33,7 @@
 - CI/CD
   - Bitrise, GitHub Actions
 - ネイティブアプリケーションの開発
-  - Windows(C/C++/Win32/MFC)、macOS(AppKit)、 Android(Java), Linux,...
+  - Windows(C/C++/Win32/MFC)、macOS(AppKit)、 Android(Java), iOS(Objective-C), Linux,...
 - TCP/UDP のソケットを使った通信処理の実装
 - シェルスクリプト、Git、Docker などの開発ツールの利用
 
