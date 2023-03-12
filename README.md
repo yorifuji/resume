@@ -27,12 +27,14 @@
   - freezed, riverpod, flutter_hooks, go_router
   - MVVM + Repository Architecture
 - iOS
-  - UIKit, SwiftUI
+  - UIKit
+  - SwiftUI
 - Backend
   - OpenAPI(Swagger)
   - GraphQL
 - CI/CD
-  - Bitrise, GitHub Actions
+  - Bitrise
+  - GitHub Actions
 - ネイティブアプリケーションの開発
   - Windows(C/C++/Win32/MFC)、macOS(AppKit)、 Android(Java), iOS(Objective-C), Linux,...
 - TCP/UDP のソケットを使った通信処理の実装
