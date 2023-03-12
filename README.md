@@ -15,7 +15,7 @@
 
 - Web 会議サービスの設計・開発
   - 開発チームリーダー
-  - 各種OSのネイティブアプリ開発（Windows, macOS、 Android, iOS)
+  - 各種OSのネイティブアプリ開発（Windows, macOS, Android, iOS)
 - 新規事業のフィージビリティスタディや PoC などの上流工程
 - プロジェクト管理
 
