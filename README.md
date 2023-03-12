@@ -86,9 +86,9 @@
 
 - GitHub [https://github.com/yorifuji](https://github.com/yorifuji)
 - Twitter [https://twitter.com/yorifuji](https://twitter.com/yorifuji)
-- Zenn（技術記事はこちら） [https://zenn.dev/yorifuji](https://zenn.dev/yorifuji)
-- Qiita（更新していません） [https://qiita.com/yorifuji](https://qiita.com/yorifuji)
-- Note（更新していません） [https://note.com/yorifuji](https://note.com/yorifuji)
+- Zenn [https://zenn.dev/yorifuji](https://zenn.dev/yorifuji)
+<!-- - Qiita（更新していません） [https://qiita.com/yorifuji](https://qiita.com/yorifuji)
+- Note（更新していません） [https://note.com/yorifuji](https://note.com/yorifuji) -->
 
 # 登壇資料
 
