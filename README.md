@@ -30,6 +30,7 @@
   - UIKit, SwiftUI
 - Backend
   - OpenAPI(Swagger)
+  - GraphQL
 - CI/CD
   - Bitrise, GitHub Actions
 - ネイティブアプリケーションの開発
