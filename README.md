@@ -15,7 +15,7 @@
 
 - Web 会議サービスの設計・開発
   - 開発チームリーダー
-  - 各種OSのネイティブアプリ開発（Windows, macOS, Android, iOS)
+  - 各種OS向けのネイティブアプリ開発
 - 新規事業のフィージビリティスタディや PoC などの上流工程
 - プロジェクト管理
 
@@ -36,7 +36,10 @@
   - Bitrise
   - GitHub Actions
 - ネイティブアプリケーションの開発
-  - Windows(C/C++/Win32/MFC)、macOS(AppKit)、 Android(Java), iOS(Objective-C), Linux,...
+  - Windows(C/C++/Win32/MFC)
+  - macOS(AppKit)
+  - Android(Java),
+  - iOS(Objective-C, Swift, UIKit)
 - TCP/UDP のソケットを使った通信処理の実装
 - シェルスクリプト、Git、Docker などの開発ツールの利用
 
