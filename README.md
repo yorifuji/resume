@@ -101,5 +101,4 @@
 - 画像から文字認識をする OCR アプリ
 - 技術スタック
   - SwiftUI
-  - Firebase
-    - Firebase Machine Learning
+  - Vision Framework
