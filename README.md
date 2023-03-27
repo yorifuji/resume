@@ -6,20 +6,27 @@
 
 ## 金融系事業会社 （2022.4 - 在籍中）
 
-- toC 向けモバイルアプリ開発
-  - Swift, UIKit
-- toB 向けモバイルアプリ開発
-  - Flutter
+- toB 向けiOSアプリ開発（Flutter）
+  - 行員がお客様と資産運用を検討する営業用アプリ
+  - Flutterで riverpod, freezed, flutter_hooks, go_router を採用
+  - アーキテクチャは MVVM + Repository
+  - バックエンドはREST(OpenAPI)
+  -　主に画面実装などを実施
+- toC 向けiOSアプリ開発（Swift）
+  - コンシューマ向けの資産運用アプリ
+  - Swift, UIKit, RxSwift
+  - 機能追加やXcodeのバージョンアップなどを実施
 
 ## 通信系事業会社 & SIer （2005.4 - 2022.3）
 
-- Web 会議サービスの設計・開発
-  - 開発チームリーダー
-  - 各種OS向けのネイティブアプリ開発
-- 新規事業のフィージビリティスタディや PoC などの上流工程
-- プロジェクト管理
-
-など
+- 自社開発のWeb会議サービスの設計や開発、継続的な改善（5年以上〜）
+  - C/C++ を使った通信層などの低レイヤーの実装
+  - UI/UX の設計や各種OS向けのネイティブアプリの開発
+    - Windows, macOS, Android, iOSの開発を一通り経験
+  - 開発ロードマップの検討やスケジュール管理などのマネジメント業務
+  - 4〜5名程度の開発チームのリーダー
+- 新規事業のフィージビリティスタディや PoC などの上流工程やプロジェクト管理
+  - プロトタイプの開発など
 
 # 経験・スキル
 
@@ -40,7 +47,7 @@
   - macOS(AppKit)
   - Android(Java),
   - iOS(Objective-C, Swift, UIKit)
-- TCP/UDP のソケットを使った通信処理の実装
+- BSD Socketを使った TCP/UDP の通信処理の実装
 - シェルスクリプト、Git、Docker などの開発ツールの利用
 
 # ソフトスキル
