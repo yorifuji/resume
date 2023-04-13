@@ -11,10 +11,9 @@
   - Flutterで riverpod, freezed, flutter_hooks, go_router を採用
   - アーキテクチャは MVVM + Repository
   - バックエンドはREST(OpenAPI)
-  -　主に画面実装などを実施
 - toC 向けiOSアプリ開発（Swift）
   - コンシューマ向けの資産運用アプリ
-  - Swift, UIKit, RxSwift
+  - Swift, UIKit, RxSwift, Redux
   - 機能追加やXcodeのバージョンアップなどを実施
 
 ## 通信系事業会社 & SIer （2005.4 - 2022.3）
