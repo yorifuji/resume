@@ -97,16 +97,12 @@
 - Twitter [https://twitter.com/yorifuji](https://twitter.com/yorifuji)
 - Zenn [https://zenn.dev/yorifuji](https://zenn.dev/yorifuji)
 
-# 登壇資料
-
-- iOS の CallKit フレームークと SkyWay について (2019/08/21)
-  - [スライド](https://speakerdeck.com/yorifuji/callkit-skyway)
 
 # 個人開発
 
 ## OCR アプリ
 
-- [よみとり OCR](https://apps.apple.com/jp/app/%E3%82%88%E3%81%BF%E3%81%A8%E3%82%8A/id1541364743)
+- [シンプルOCR](https://apps.apple.com/jp/app/%E3%82%88%E3%81%BF%E3%81%A8%E3%82%8A/id1541364743)
 - 画像から文字認識をする OCR アプリ
 - 技術スタック
   - SwiftUI
