@@ -78,8 +78,8 @@
 
 # 登壇資料
 
-- iOSアプリ開発でGitHub Actionsのself-hosted runnerを使う（2023/06/20 potatotips #82）
-  - [スライド](https://speakerdeck.com/yorifuji/iosapurikai-fa-degithub-actionsnoself-hosted-runnerwoshi-u)
+- potatotips #82 (2023/06/20)
+  - [iOSアプリ開発でGitHub Actionsのself-hosted runnerを使う](https://speakerdeck.com/yorifuji/iosapurikai-fa-degithub-actionsnoself-hosted-runnerwoshi-u)
 
 # 意欲・興味
 
