@@ -85,13 +85,10 @@
 
 - アジャイルで仮説検証を回してプロダクトを改善するプロセスに興味があります
 - 技術スタックはモバイルが好きですが周辺領域にも興味があります
-  - iOS、SwiftUI, Flutter, Core ML, WebRTC
-  - AWS、GCP、Firebase などの mBaaS
   - CI/CD などの開発プロセス
 - 新しい技術やプラクティスを積極的に取り入れている組織やチームでの開発に興味があります
 - コードレビューやペアプロを取り入れている組織やチームでの開発に興味があります
 - 技術研鑽や学習成果のアウトプット・発信を推奨している組織やチームに興味があります
-  - 継続的に技術記事を投稿しています [https://zenn.dev/yorifuji](https://zenn.dev/yorifuji)
 
 # 保有資格
 
@@ -108,7 +105,6 @@
 - GitHub [https://github.com/yorifuji](https://github.com/yorifuji)
 - Twitter [https://twitter.com/yorifuji](https://twitter.com/yorifuji)
 - Zenn [https://zenn.dev/yorifuji](https://zenn.dev/yorifuji)
-
 
 # 個人開発
 
