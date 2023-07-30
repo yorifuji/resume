@@ -6,41 +6,41 @@
 
 ## 金融系事業会社 （2022.4 - 在籍中）
 
-- toB 向けiOSアプリ開発（Flutter）
+- toB 向け iOS アプリ開発（Flutter）
   - 銀行の営業員がお客様と資産運用の内容を検討する際に利用する営業用業務アプリ
-  - Flutterで riverpod, freezed, flutter_hooks, go_router を採用
+  - Flutter で riverpod, freezed, flutter_hooks, go_router を採用
   - アーキテクチャは MVVM + Repository
-  - バックエンドはREST(OpenAPI)
-- toC 向けiOSアプリ開発（Swift）
+  - バックエンドは REST(OpenAPI)
+- toC 向け iOS アプリ開発（Swift）
   - コンシューマ向けの資産運用アプリ
   - Swift, UIKit, RxSwift, Redux
-  - 機能追加や不具合修正、メンテナンス（Xcodeのバージョンアップ対応など）を担当
+  - 機能追加や不具合修正、メンテナンス（Xcode のバージョンアップ対応など）を担当
 
-## 通信系SIer （2017.4 - 2022.3）
+## 通信系 SIer （2017.4 - 2022.3）
 
-- 4〜5名程度の開発チームのエンジニアリングマネジメント
+- 4〜5 名程度の開発チームのエンジニアリングマネジメント
   - プロダクトの開発計画の作成やスケジュール管理、品質管理などのマネジメント業務
 - 新規事業のフィージビリティスタディや PoC などの上流工程やプロジェクト管理
   - プロトタイプの開発など
 
 ## 通信系事業会社 （2005.4 - 2017.3）
 
-- 自社開発のWeb会議サービスの設計や開発、継続的な改善（5年以上〜）
-  - C/C++ を使った各種OS向けのネイティブアプリケーションの開発
-    - Windows, macOS, Android, iOSなど
+- 自社開発の Web 会議サービスの設計や開発、継続的な改善（5 年以上〜）
+  - C/C++ を使った各種 OS 向けのネイティブアプリケーションの開発
+    - Windows, macOS, Android, iOS など
   - 遠隔協調動作を考慮したドキュメント共有システムの設計と開発
-    - 異なるOS間でのリアルタイム閲覧に対応したファイルやデスクトップ共有機能のエンハンスメント
-  - Web会議用途のモバイルアプリケーションのUX/UIの設計および開発
-  - IPv4とIPv6のデュアルスタックに対応したIPレイヤの設計と実装
-- R&Dの受託開発など
+    - 異なる OS 間でのリアルタイム閲覧に対応したファイルやデスクトップ共有機能のエンハンスメント
+  - Web 会議用途のモバイルアプリケーションの UX/UI の設計および開発
+  - IPv4 と IPv6 のデュアルスタックに対応した IP レイヤの設計と実装
+- R&D の受託開発など
 
 ## 業務委託
 
 ### フォトカレンダー注文アプリ開発 (2023.2 - 2023.5)
 
-- 端末の写真からフォトカレンダーを作成・注文するFlutterアプリの開発
-- バックエンドはShopifyでAPIはGraphQLを使用
-- Universal Linksの実装
+- 端末の写真からフォトカレンダーを作成・注文する Flutter アプリの開発
+- バックエンドは Shopify で API は GraphQL を使用
+- Universal Links の実装
 - 顧客情報の登録画面の作成
 
 # 経験・スキル
@@ -76,14 +76,14 @@
 
 - [GitHub Actions で Automatically manage signing を使って Flutter の ipa ビルドする](https://zenn.dev/yorifuji/articles/build-automatically-manage-singin-on-ci)
 - [Bitrise で Flutter iOS アプリの Build & TestFlight の勘所 （2022.12）](https://zenn.dev/yorifuji/articles/flutter-bitrise-basis)
-- [Flutter開発で使っているGitHub Actionsのワークフロー](https://zenn.dev/yorifuji/articles/flutter-github-actions-template)
+- [Flutter 開発で使っている GitHub Actions のワークフロー](https://zenn.dev/yorifuji/articles/flutter-github-actions-template)
 
 [more](https://zenn.dev/yorifuji)
 
 # 登壇資料
 
 - potatotips #82 (2023/06/20)
-  - [iOSアプリ開発でGitHub Actionsのself-hosted runnerを使う](https://speakerdeck.com/yorifuji/iosapurikai-fa-degithub-actionsnoself-hosted-runnerwoshi-u)
+  - [iOS アプリ開発で GitHub Actions の self-hosted runner を使う](https://speakerdeck.com/yorifuji/iosapurikai-fa-degithub-actionsnoself-hosted-runnerwoshi-u)
 
 # 意欲・興味
 
@@ -102,7 +102,6 @@
 # 最終学歴
 
 - 東京農工大学大学院 工学教育部 情報コミュニケーション工学専攻 博士前期課程 修了（2005/3）
-- 研究内容 [情報処理学会 電子図書館](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_snippet&all=&creator=%E4%BE%9D%E8%97%A4%20%E5%85%85%E7%AF%84&count=20&order=16&pn=1&page_id=13&block_id=8)
 
 # SNS、ブログなど
 
@@ -114,8 +113,7 @@
 
 ## OCR アプリ
 
-- [シンプルOCR](https://apps.apple.com/jp/app/%E3%82%88%E3%81%BF%E3%81%A8%E3%82%8A/id1541364743)
-- 画像から文字認識をする OCR アプリ
+- [AppStore](https://apps.apple.com/jp/app/%E3%82%88%E3%81%BF%E3%81%A8%E3%82%8A/id1541364743)
 - 技術スタック
   - SwiftUI
   - Vision Framework
