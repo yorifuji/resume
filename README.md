@@ -7,10 +7,9 @@
 ## 金融系事業会社 （2022.4 - 在籍中）
 
 - toB 向け iOS アプリ開発（Flutter）
-  - 銀行の営業員がお客様と資産運用の内容を検討する際に利用する営業用業務アプリ
-  - Flutter で riverpod, freezed, flutter_hooks, go_router を採用
+  - 銀行の営業員の方が使用する業務アプリ
   - アーキテクチャは MVVM + Repository
-  - バックエンドは REST(OpenAPI)
+  - riverpod, freezed, flutter_hooks, go_router などを採用
 - toC 向け iOS アプリ開発（Swift）
   - コンシューマ向けの資産運用アプリ
   - Swift, UIKit, RxSwift, Redux
@@ -45,8 +44,7 @@
 
 - 端末の写真からフォトカレンダーを作成・注文する Flutter アプリの開発
 - バックエンドは Shopify で API は GraphQL を使用
-- Universal Links の実装
-- 顧客情報の登録画面の作成
+- 顧客情報の登録画面の作成、Universal Links の実装など
 
 # 経験・スキル
 
@@ -99,15 +97,6 @@
 - コードレビューやペアプロを取り入れている組織やチームでの開発に興味があります
 - 技術研鑽や学習成果のアウトプット・発信を推奨している組織やチームに興味があります
 
-# 保有資格
-
-- 応用情報技術者 （2017/12）
-- [AWS クラウドプラクティショナー](https://www.credly.com/badges/ad001cb9-c302-4547-a26e-49d97d61cd3f/public_url) （2021/8）
-
-# 最終学歴
-
-- 東京農工大学大学院 工学教育部 情報コミュニケーション工学専攻 博士前期課程 修了（2005/3）
-
 # SNS、ブログなど
 
 - GitHub [https://github.com/yorifuji](https://github.com/yorifuji)
@@ -122,3 +111,19 @@
 - 技術スタック
   - SwiftUI
   - Vision Framework
+
+## Flutter アプリ（ストア未公開）
+
+- https://github.com/yorifuji/buzz_recipe_viewer
+- レシピ記録と動画を検索・閲覧するアプリ
+- Flutterアプリ開発におけるアーキテクチャの検討やライブラリ利用のスキルを習得することが目的（技術showcase）。
+
+# 保有資格
+
+- 応用情報技術者 （2017/12）
+- [AWS クラウドプラクティショナー](https://www.credly.com/badges/ad001cb9-c302-4547-a26e-49d97d61cd3f/public_url) （2021/8）
+
+# 最終学歴
+
+- 東京農工大学大学院 工学教育部 情報コミュニケーション工学専攻 博士前期課程 修了（2005/3）
+
