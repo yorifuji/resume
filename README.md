@@ -116,7 +116,7 @@
 
 - [yorifuji/buzz_recipe_viewer: Flutter application](https://github.com/yorifuji/buzz_recipe_viewer)
 - レシピ記録と動画を検索・閲覧するアプリ
-- Flutterアプリ開発におけるアーキテクチャの検討やライブラリ利用のスキルを習得することが目的（技術showcase）。
+- Flutterアプリのアーキテクチャ検討やライブラリ利用のスキルを習得することが目的（技術showcase）
 
 # 保有資格
 
