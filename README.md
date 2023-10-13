@@ -42,12 +42,10 @@
 
 ## 業務委託
 
-### 業務アプリ開発　(2023.6 - 現在)
+### Flutter Web を使った業務アプリの開発　(2023.6 - 現在)
 
-- 業務アプリケーションの新規開発
-- 要件と開発スピードを検討した結果 Flutter(Web) を採用することに
-- バックエンドは Firebase、 主に Firebase AuthenticationとFirestoreを利用
-- flutter create から全ての作業を実施
+- 設計から開発までの全てを担当
+- バックエンドは Firebase で主に Firebase Authentication と Firestore を利用
 - CI/CD環境の構築
 
 ### フォトカレンダー注文アプリ開発 (2023.2 - 2023.5)
@@ -113,7 +111,7 @@
 - GitHub [https://github.com/yorifuji](https://github.com/yorifuji)
 - Twitter [https://twitter.com/yorifuji](https://twitter.com/yorifuji)
 - Zenn [https://zenn.dev/yorifuji](https://zenn.dev/yorifuji)
-
+- Wantedly [Wantedly](https://www.wantedly.com/id/yorifuji)
 # 個人開発
 
 ## OCR アプリ
