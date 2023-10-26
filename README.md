@@ -95,7 +95,7 @@
 # 登壇資料
 
 - FlutterNight (2023/10/27)
-  - [Flutter開発とGitHub Actions - Speaker Deck](https://speakerdeck.com/yorifuji/orion-salon-31)
+  - [Flutter開発とGitHub Actions](https://speakerdeck.com/yorifuji/orion-salon-31)
 - potatotips #82 (2023/06/20)
   - [iOS アプリ開発で GitHub Actions の self-hosted runner を使う](https://speakerdeck.com/yorifuji/iosapurikai-fa-degithub-actionsnoself-hosted-runnerwoshi-u)
 
