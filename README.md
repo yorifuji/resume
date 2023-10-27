@@ -101,19 +101,22 @@
 
 # 意欲・興味
 
-- アジャイルで仮説検証を回してプロダクトを改善するプロセスに興味があります
 - 技術スタックはモバイルが好きですが周辺領域にも興味があります
-  - CI/CD などの開発プロセス
 - 新しい技術やプラクティスを積極的に取り入れている組織やチームでの開発に興味があります
+- アジャイルで仮説検証を回してプロダクトを改善するプロセスに興味があります
 - コードレビューやペアプロを取り入れている組織やチームでの開発に興味があります
 - 技術研鑽や学習成果のアウトプット・発信を推奨している組織やチームに興味があります
 
 # SNS、ブログなど
 
-- GitHub [https://github.com/yorifuji](https://github.com/yorifuji)
-- Twitter [https://twitter.com/yorifuji](https://twitter.com/yorifuji)
-- Zenn [https://zenn.dev/yorifuji](https://zenn.dev/yorifuji)
-- Wantedly [Wantedly](https://www.wantedly.com/id/yorifuji)
+| Site | URL |
+|---|---|
+| GitHub | https://github.com/yorifuji |
+| X(Twitter) | https://twitter.com/yorifuji |
+| Zenn | https://zenn.dev/yorifuji |
+| Speaker Deck | https://speakerdeck.com/yorifuji | 
+| Wantedly | https://www.wantedly.com/id/yorifuji |
+
 # 個人開発
 
 ## OCR アプリ
@@ -121,7 +124,7 @@
 - [AppStore](https://apps.apple.com/jp/app/%E3%82%88%E3%81%BF%E3%81%A8%E3%82%8A/id1541364743)
 - 技術スタック
   - SwiftUI
-  - Vision Framework
+  - Vision Framework を使った日本語文字認識
 
 ## Flutter アプリ（ストア未公開）
 
