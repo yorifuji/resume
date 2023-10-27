@@ -111,11 +111,11 @@
 
 | Site | URL |
 |---|---|
-| GitHub | https://github.com/yorifuji |
-| X(Twitter) | https://twitter.com/yorifuji |
-| Zenn | https://zenn.dev/yorifuji |
-| Speaker Deck | https://speakerdeck.com/yorifuji | 
-| Wantedly | https://www.wantedly.com/id/yorifuji |
+| GitHub | [https://github.com/yorifuji](https://github.com/yorifuji) |
+| X(Twitter) | [https://twitter.com/yorifuji](https://twitter.com/yorifuji) |
+| Zenn | [https://zenn.dev/yorifuji](https://zenn.dev/yorifuji) |
+| Speaker Deck | [https://speakerdeck.com/yorifuji](https://speakerdeck.com/yorifuji) | 
+| Wantedly | [https://www.wantedly.com/id/yorifuji](https://www.wantedly.com/id/yorifuji) |
 
 # 個人開発
 
