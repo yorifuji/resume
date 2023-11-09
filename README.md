@@ -84,6 +84,12 @@
 - カスタマーサポートの技術支援、トラブルシューティング
 - ウォーターフォール・アジャイル開発、オフショア開発の管理業務
 
+# OSS
+
+## Flutter Analyze Commenter 
+
+https://github.com/marketplace/actions/flutter-analyze-commenter
+
 # 最近執筆した記事
 
 - [GitHub Actions で Automatically manage signing を使って Flutter の ipa ビルドする](https://zenn.dev/yorifuji/articles/build-automatically-manage-singin-on-ci)
