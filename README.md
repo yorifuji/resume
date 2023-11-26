@@ -44,8 +44,9 @@
 
 ### Flutter Web を使った業務アプリの開発　(2023.6 - 現在)
 
-- 設計から開発までの全てを担当
-- バックエンドは Firebase で主に Firebase Authentication と Firestore を利用
+- 技術選定から設計・開発を担当
+  - Flutter on the Web
+  - Firebase Authentication と Firestore を採用
 - CI/CD環境の構築
 
 ### フォトカレンダー注文アプリ開発 (2023.2 - 2023.5)
