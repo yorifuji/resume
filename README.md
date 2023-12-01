@@ -124,7 +124,9 @@
 | X(Twitter) | [https://twitter.com/yorifuji](https://twitter.com/yorifuji) |
 | Zenn | [https://zenn.dev/yorifuji](https://zenn.dev/yorifuji) |
 | Speaker Deck | [https://speakerdeck.com/yorifuji](https://speakerdeck.com/yorifuji) | 
+| YouTube | [https://www.youtube.com/@yorifuji](https://www.youtube.com/@yorifuji)
 | Wantedly | [https://www.wantedly.com/id/yorifuji](https://www.wantedly.com/id/yorifuji) |
+
 
 # 個人開発
 
