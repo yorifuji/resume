@@ -144,7 +144,6 @@
 # 保有資格
 
 - 応用情報技術者 （2017/12）
-- [AWS クラウドプラクティショナー](https://www.credly.com/badges/ad001cb9-c302-4547-a26e-49d97d61cd3f/public_url) （2021/8）
 
 # 最終学歴
 
