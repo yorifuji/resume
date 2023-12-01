@@ -103,7 +103,7 @@
 
 - FlutterNight (2023/10/27)
   - [Flutter開発とGitHub Actions](https://speakerdeck.com/yorifuji/orion-salon-31)
-  - [YouTube](https://www.youtube.com/live/yZ39akuS-TU?si=4SH3HnM6d7qNSdn6&t=3126)
+  - [YouTube](https://youtu.be/qjf_JGFXx2I?si=4eAsWVhJIyjmXjJ9)
 - potatotips #82 (2023/06/20)
   - [iOS アプリ開発で GitHub Actions の self-hosted runner を使う](https://speakerdeck.com/yorifuji/iosapurikai-fa-degithub-actionsnoself-hosted-runnerwoshi-u)
   - [YouTube](https://www.youtube.com/live/GyEtEy054IY?si=dEmxCZb2CkatBOk3&t=6147)
