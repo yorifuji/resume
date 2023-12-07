@@ -93,6 +93,8 @@
 
 # 最近執筆した記事
 
+- [Flutterの静的解析の結果をPRにコメントするGitHub Actionsのカスタムアクションを公開した](https://zenn.dev/yorifuji/articles/feec2c0294c7f9)
+- [Amplify Hostingを使ってFlutter Webをデプロイする](https://zenn.dev/yorifuji/articles/amplify-hosting-for-flutter-web)
 - [GitHub Actions で Automatically manage signing を使って Flutter の ipa ビルドする](https://zenn.dev/yorifuji/articles/build-automatically-manage-singin-on-ci)
 - [Bitrise で Flutter iOS アプリの Build & TestFlight の勘所 （2022.12）](https://zenn.dev/yorifuji/articles/flutter-bitrise-basis)
 - [Flutter 開発で使っている GitHub Actions のワークフロー](https://zenn.dev/yorifuji/articles/flutter-github-actions-template)
@@ -101,12 +103,15 @@
 
 # 登壇資料
 
+- Flutter 大学 (2023/11/30)
+  - [GitHub Actionsのカスタムアクションを作成してMarketplaceで公開した話 - Speaker Deck](https://speakerdeck.com/yorifuji/custom-actions)
+  - [YouTube](https://www.youtube.com/watch?v=ZyCR4Qpja4E)
 - FlutterNight (2023/10/27)
   - [Flutter開発とGitHub Actions](https://speakerdeck.com/yorifuji/orion-salon-31)
-  - [YouTube](https://youtu.be/qjf_JGFXx2I?si=4eAsWVhJIyjmXjJ9)
+  - [YouTube](https://www.youtube.com/watch?v=qjf_JGFXx2I)
 - potatotips #82 (2023/06/20)
   - [iOS アプリ開発で GitHub Actions の self-hosted runner を使う](https://speakerdeck.com/yorifuji/iosapurikai-fa-degithub-actionsnoself-hosted-runnerwoshi-u)
-  - [YouTube](https://www.youtube.com/live/GyEtEy054IY?si=dEmxCZb2CkatBOk3&t=6147)
+  - [YouTube](https://www.youtube.com/watch?v=i_Q9CanT2Cw)
 
 # 意欲・興味
 
