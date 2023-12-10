@@ -104,7 +104,7 @@
 # 登壇資料
 
 - Flutter 大学 (2023/11/30)
-  - [GitHub Actionsのカスタムアクションを作成してMarketplaceで公開した話 - Speaker Deck](https://speakerdeck.com/yorifuji/custom-actions)
+  - [GitHub Actionsのカスタムアクションを作成してMarketplaceで公開した話](https://speakerdeck.com/yorifuji/custom-actions)
   - [YouTube](https://www.youtube.com/watch?v=ZyCR4Qpja4E)
 - FlutterNight (2023/10/27)
   - [Flutter開発とGitHub Actions](https://speakerdeck.com/yorifuji/orion-salon-31)
