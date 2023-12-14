@@ -103,6 +103,8 @@
 
 # 登壇資料
 
+- Re: 2023 モバイルアプリ開発 LT大会（2023/12/14）
+  - [GitHub Actionsのカスタムアクションを公開する](https://speakerdeck.com/yorifuji/custom-actions-app-brew)
 - Flutter 大学 (2023/11/30)
   - [GitHub Actionsのカスタムアクションを作成してMarketplaceで公開した話](https://speakerdeck.com/yorifuji/custom-actions)
   - [YouTube](https://www.youtube.com/watch?v=ZyCR4Qpja4E)
