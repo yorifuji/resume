@@ -91,6 +91,10 @@
 
 - [Flutter Analyze Commenter · Actions · GitHub Marketplace](https://github.com/marketplace/actions/flutter-analyze-commenter)
 
+## Easy VRT
+
+- [Easy VRT · Actions · GitHub Marketplace](https://github.com/marketplace/actions/easy-vrt)
+
 # 最近執筆した記事
 
 - [Flutterの静的解析の結果をPRにコメントするGitHub Actionsのカスタムアクションを公開した](https://zenn.dev/yorifuji/articles/feec2c0294c7f9)
