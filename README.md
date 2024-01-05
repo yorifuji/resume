@@ -65,6 +65,7 @@
   - UIKit
   - SwiftUI
 - Backend
+  - Firebase
   - OpenAPI(Swagger)
   - GraphQL
 - CI/CD
