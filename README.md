@@ -145,7 +145,7 @@
 
 ## OCR アプリ
 
-- [AppStore](https://apps.apple.com/jp/app/%E3%82%88%E3%81%BF%E3%81%A8%E3%82%8A/id1541364743)
+- [AppStore（有料アプリ）](https://apps.apple.com/jp/app/%E3%82%88%E3%81%BF%E3%81%A8%E3%82%8A/id1541364743)
 - 技術スタック
   - SwiftUI
   - Vision Framework を使った日本語文字認識
