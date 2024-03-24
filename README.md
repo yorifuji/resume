@@ -9,12 +9,11 @@
 金融系のスタートアップでiOSエンジニアとしてiOSネイティブ（Swift）とFlutterアプリの開発に従事
 
 - toB 向け iOS アプリ開発（Flutter）
-  - 銀行の営業員の方が使用する業務アプリ
-  - チームで合意した設計や実装方針に基づいて画面の設計や開発を担当
-    - アーキテクチャは MVVM + Repository
-    - ライブラリは Riverpod, freezed, flutter_hooks, go_router などを採用
+  - 銀行の営業員の方が使用する業務アプリの開発
+  - アーキテクチャは MVVM + Repository
+  - ライブラリは Riverpod, freezed, flutter_hooks, go_router など
 - toC 向け iOS アプリ開発（Swift）
-  - コンシューマ向けの資産運用アプリ
+  - コンシューマ向けの資産運用アプリの開発
   - Swift, UIKit, RxSwift, Redux
   - 機能追加や不具合修正、メンテナンス（Xcode のバージョンアップ対応など）を担当
 
@@ -53,7 +52,7 @@
 
 - 技術選定、アーキテクチャデザインおよび開発を担当
   - Flutter on the Web
-  - Firebase Authentication と Firestore を採用
+  - Firebase Authentication と Firestore
   - OpenAPIとopenapi-generatorを使ったDartのコード生成
 - CI/CD環境の構築
 
