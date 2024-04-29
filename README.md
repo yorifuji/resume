@@ -103,13 +103,12 @@
 
 # 最近執筆した記事
 
+- [Riverpodの次期バージョンでGenericsを利用する](https://zenn.dev/yorifuji/articles/3b5a78275f8244)
+- [GitHub ActionsでVisual Regression Test（VRT）の実装を簡単にするカスタムアクションをリリースした](https://zenn.dev/yorifuji/articles/3d62f6de561618)
 - [Flutterの静的解析の結果をPRにコメントするGitHub Actionsのカスタムアクションを公開した](https://zenn.dev/yorifuji/articles/feec2c0294c7f9)
 - [Amplify Hostingを使ってFlutter Webをデプロイする](https://zenn.dev/yorifuji/articles/amplify-hosting-for-flutter-web)
-- [GitHub Actions で Automatically manage signing を使って Flutter の ipa ビルドする](https://zenn.dev/yorifuji/articles/build-automatically-manage-singin-on-ci)
-- [Bitrise で Flutter iOS アプリの Build & TestFlight の勘所 （2022.12）](https://zenn.dev/yorifuji/articles/flutter-bitrise-basis)
-- [Flutter 開発で使っている GitHub Actions のワークフロー](https://zenn.dev/yorifuji/articles/flutter-github-actions-template)
 
-[more](https://zenn.dev/yorifuji)
+[more...](https://zenn.dev/yorifuji)
 
 # 登壇資料
 
