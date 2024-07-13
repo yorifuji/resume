@@ -6,16 +6,14 @@
 
 ## 株式会社FOLIO （2022.4 - 在籍中）
 
-金融系のスタートアップでiOSエンジニアとしてiOSネイティブ（Swift）とFlutterアプリの開発に従事
+金融系のスタートアップでiOSエンジニアとしてiOSネイティブ（Swift）とFlutterアプリの開発を担当
 
 - toB 向け iOS アプリ開発（Flutter）
   - 銀行の営業員の方が使用する業務アプリの開発
-  - アーキテクチャは MVVM + Repository
-  - ライブラリは Riverpod, freezed, flutter_hooks, go_router など
 - toC 向け iOS アプリ開発（Swift）
-  - コンシューマ向けの資産運用アプリの開発
-  - Swift, UIKit, RxSwift, Redux
-  - 機能追加や不具合修正、メンテナンス（Xcode のバージョンアップ対応など）を担当
+  - コンシューマ向けの資産運用アプリの機能追加や不具合修正など
+  - 技術スタックはSwift, SwiftUI, UIKit, RxSwift, Reduxなど
+- CI/CDの管理・運用
 
 ## NTTテクノクロス （2017.4 - 2022.3）
 
