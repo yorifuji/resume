@@ -142,22 +142,6 @@
 | YouTube | [https://www.youtube.com/@yorifuji](https://www.youtube.com/@yorifuji)
 | Wantedly | [https://www.wantedly.com/id/yorifuji](https://www.wantedly.com/id/yorifuji) |
 
-
-# 個人開発
-
-## OCR アプリ
-
-- [AppStore（有料アプリ）](https://apps.apple.com/jp/app/%E3%82%88%E3%81%BF%E3%81%A8%E3%82%8A/id1541364743)
-- 技術スタック
-  - SwiftUI
-  - Vision Framework を使った日本語文字認識
-
-## Flutter アプリ（ストア未公開）
-
-- [yorifuji/buzz_recipe_viewer: Flutter application](https://github.com/yorifuji/buzz_recipe_viewer)
-- レシピ記録と動画を検索・閲覧するアプリ
-- Flutterアプリのアーキテクチャ検討やライブラリ利用のスキルを習得することが目的（技術showcase）
-
 # 保有資格
 
 - 応用情報技術者 （2017/12）
