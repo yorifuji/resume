@@ -117,6 +117,8 @@ iOSエンジニアとしてネイティブアプリ（Swift）とFlutterアプ�
 
 # 登壇資料
 
+- [Codexどう使ってる？期待通りにいかない時の向き合い方と工夫（2026/3/6）](https://findy.connpass.com/event/384314/)
+  - [Codex の「自走力」を高める](https://speakerdeck.com/yorifuji/codex-no-zi-zou-li-wogao-meru)
 - Re: 2023 モバイルアプリ開発 LT大会（2023/12/14）
   - [GitHub Actionsのカスタムアクションを公開する](https://speakerdeck.com/yorifuji/custom-actions-app-brew)
   - [YouTube](https://www.youtube.com/watch?v=_XpB1xDp71c)
