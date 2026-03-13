@@ -108,16 +108,18 @@ iOSエンジニアとしてネイティブアプリ（Swift）とFlutterアプ�
 
 # 最近執筆した記事
 
+- [Codex CLI の v0.88.0 で試験的に実装された Plan モードを使う](https://zenn.dev/yorifuji/articles/ac6883cf8fac82)
+- [Codex の Execution policy rules を理解して安全・快適に利用する](https://zenn.dev/yorifuji/articles/3d44ca14ad6b3e)
+- [Codex CLI の基本](https://zenn.dev/yorifuji/articles/8451e3474b7d4b)
 - [Riverpodの次期バージョンでGenericsを利用する](https://zenn.dev/yorifuji/articles/3b5a78275f8244)
 - [GitHub ActionsでVisual Regression Test（VRT）の実装を簡単にするカスタムアクションをリリースした](https://zenn.dev/yorifuji/articles/3d62f6de561618)
 - [Flutterの静的解析の結果をPRにコメントするGitHub Actionsのカスタムアクションを公開した](https://zenn.dev/yorifuji/articles/feec2c0294c7f9)
-- [Amplify Hostingを使ってFlutter Webをデプロイする](https://zenn.dev/yorifuji/articles/amplify-hosting-for-flutter-web)
 
 [more...](https://zenn.dev/yorifuji)
 
 # 登壇資料
 
-- [Codexどう使ってる？期待通りにいかない時の向き合い方と工夫（2026/3/6）](https://findy.connpass.com/event/384314/)
+- [Codexどう使ってる？期待通りにいかない時の向き合い方と工夫](https://findy.connpass.com/event/384314/)（2026/3/6）
   - [Codex の「自走力」を高める](https://speakerdeck.com/yorifuji/codex-no-zi-zou-li-wogao-meru)
 - Re: 2023 モバイルアプリ開発 LT大会（2023/12/14）
   - [GitHub Actionsのカスタムアクションを公開する](https://speakerdeck.com/yorifuji/custom-actions-app-brew)
